@@ -3,6 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/helloworldmvc.iml" filepath="$PROJECT_DIR$/helloworldmvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/helloworldmvc.Contract/helloworldmvc.Contract.iml" filepath="$PROJECT_DIR$/helloworldmvc.Contract/helloworldmvc.Contract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/helloworldmvc.controller/helloworldmvc.controller.iml" filepath="$PROJECT_DIR$/helloworldmvc.controller/helloworldmvc.controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/helloworldmvc.main/helloworldmvc.main.iml" filepath="$PROJECT_DIR$/helloworldmvc.main/helloworldmvc.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/helloworldmvc.model/helloworldmvc.model.iml" filepath="$PROJECT_DIR$/helloworldmvc.model/helloworldmvc.model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/helloworldmvc.view/helloworldmvc.view.iml" filepath="$PROJECT_DIR$/helloworldmvc.view/helloworldmvc.view.iml" />
     </modules>
   </component>
 </project>
